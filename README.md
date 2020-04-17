@@ -1,0 +1,2 @@
+# Sales-Revenue-Prediction
+In this project I have built and evaluated multiple linear regression models using Python. I used scikit-learn to calculate the regression, while used pandas for data management and seaborn for data visualization. The data for this project consists of the very popular Advertising dataset to predict sales revenue based on advertising spending through media such as TV, radio, and newspaper. 
